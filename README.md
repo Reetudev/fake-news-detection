@@ -10,7 +10,8 @@ This project detects whether a news article is Real or Fake using Natural Langua
 - NLP Text Processing
 - TF\-IDF Vectorization
 - Logistic Regression Model
-- Interactive Streamlit Application
+- Interactive Streamlit Web Application
+- Confidence Score Prediction
 
 ## Technologies Used
 
@@ -18,7 +19,6 @@ This project detects whether a news article is Real or Fake using Natural Langua
 - Pandas
 - NumPy
 - Scikit\-Learn
-- NLP
 - Streamlit
 - Joblib
 
